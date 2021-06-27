@@ -4,7 +4,6 @@ import cv2
 
 raiz=Tk()
 raiz.title("Reconocimiento de amenaza")
-
 def ReconocimientoAccion():
     UmbralDeAceptacion = 0.45
     nmsUmbralAceptacion = 0.2
