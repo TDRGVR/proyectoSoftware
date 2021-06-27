@@ -3,7 +3,6 @@ import numpy as np
 import cv2
 
 raiz=Tk()
-
 raiz.title("Reconocimiento de amenaza")
 
 def ReconocimientoAccion():
