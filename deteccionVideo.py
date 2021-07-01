@@ -197,7 +197,7 @@ def ReconocimientoAccion():
                             cv2.FONT_HERSHEY_COMPLEX, 1, (255, 0, 0), 2)
 
                 #Enviar notificación de Auxilio!
-                sendPushNotification()                           
+                # sendPushNotification()                           
                
         # if len( classIds ) !=0 :
         #    for classId, confidence, box in zip(classIds.flatten(), confs.flatten(), bbox):
